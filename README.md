@@ -1,4 +1,4 @@
-## README- Categorizing-Bank-Transactions
+### README- Categorizing-Bank-Transactions
 
 #### **BRIEF DESCRIPTION:**
 
